@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -27,5 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
