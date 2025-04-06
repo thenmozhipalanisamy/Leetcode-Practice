@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0069-sqrtx) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0136-single-number) |
 ## String
