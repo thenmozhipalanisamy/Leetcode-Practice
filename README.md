@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/thenmozhipalanisamy/Leetcode-Practice/tree/master/0043-multiply-strings) |
